@@ -30,10 +30,6 @@ A strategic tower defense game with dynamic levels, special powers, and interact
 | `Castle`           | Health management & damage calculation  |
 | `DefenseUnit`      | Tower behavior & attack patterns        |
 | `Enemy`/`LargerEnemy` | Movement & attack logic              |
-
-https://github.com/user-attachments/assets/ea5c6839-ada7-490d-85a7-bd80447094f2
-
-
 | `Citizen`          | Repair mechanics & resource collection  |
 | `Fence`            | Damage absorption & repair states       |
 | `Gem`/`Powerup`    | Special item spawning & effects         |
@@ -45,12 +41,7 @@ https://github.com/user-attachments/assets/ea5c6839-ada7-490d-85a7-bd80447094f2
 2. Preview map designs and select preferred configuration
 3. Survive all waves before time expires!
 
-##Menu Preview:
-
-
-https://github.com/user-attachments/assets/2fafdb6e-fb48-4588-9460-109b5af4166a
-
-
+##Game Preview:
 
 https://github.com/user-attachments/assets/9cfdc527-031a-47e7-afef-3d33a1dad34b
 
