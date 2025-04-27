@@ -36,4 +36,11 @@ A strategic tower defense game with dynamic levels, special powers, and interact
 | `Menu`/`Settings`  | User interface & configuration          |
 | `Level`            | Main game loop & difficulty scaling     |
 
-### Architecture
+## How to Play 📖
+1. Choose between **Quick Start** (defaults) or **Custom Setup**
+2. Preview map designs and select preferred configuration
+3. Manage resources to:
+- Build/upgrade defenses
+- Repair damaged fences
+- Collect gems and powerups
+4. Survive all waves before time expires!
