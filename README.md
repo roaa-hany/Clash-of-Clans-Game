@@ -41,7 +41,7 @@ A strategic tower defense game with dynamic levels, special powers, and interact
 2. Preview map designs and select preferred configuration
 3. Survive all waves before time expires!
 
-##Game Preview:
+## Game Preview:
 
 https://github.com/user-attachments/assets/9cfdc527-031a-47e7-afef-3d33a1dad34b
 
